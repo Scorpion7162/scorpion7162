@@ -10,10 +10,15 @@ I'm a self-taught developer focused on scripting, infrastructure, and building s
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,typescript,javascript,mysql&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=mysql,astro,cloudflare,discordjs,git,grafana,nginx,npm,supabase&theme=dark" alt="Skill Icons" />
+</p>
+
+## Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=lua,typescript,javascript,html,css&theme=dark" alt="Skill Icons" />
 </p>
 
 ---
