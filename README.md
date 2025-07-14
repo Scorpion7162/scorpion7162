@@ -13,7 +13,7 @@ I'm a self-taught developer focused on scripting, infrastructure, and building s
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,typescript,javascript,sql,mysql&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=lua,typescript,javascript,mysql&theme=dark" alt="Skill Icons" />
 </p>
 
 ---
