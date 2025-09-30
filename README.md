@@ -33,7 +33,7 @@ I'm a self-taught developer focused on scripting, infrastructure, and building s
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=scorpion7162&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
-<p align="right">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpion7162&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Most used languages" />
 </p>
 
