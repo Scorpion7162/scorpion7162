@@ -30,9 +30,3 @@ I'm a self-taught developer focused on scripting, infrastructure, and building s
 </p>
 
 ---
-
-## 📫 Get in Touch
-
-- 📧 Scorpion716ong@proton.me
-- 🌍 Birmingham, UK  
-- 💼 Open to freelance work and collaborations
