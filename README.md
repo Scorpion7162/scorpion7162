@@ -1,40 +1,118 @@
-# 👋 Hey, I'm Scorpion!
+<h1 align="center">Scorpion</h1>
 
-I'm a self-taught developer focused on scripting, infrastructure, and building systems that scale.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=32FF7A&center=true&vCenter=true&width=640&lines=Self-taught+Developer.+Scripter.+Sysadmin.;Building+systems+that+scale+%E2%80%94+without+the+bloat." />
+</p>
 
-- 🧠 Writing optimized backend logic in **Lua**
-- ⚙️ Managing VPS environments, MariaDB databases, and custom scripts for high-population servers (100+ players)
-- 🛠️ Built and maintained scripts for commercial use, including integration support for JG Scripts (25k+ customers)
-- 🤝 Community Manager at **YAMP**
-- 👨‍🏫 Mentor to beginner coders learning logic, scripting, and debugging
+<p align="center">
+  Backend logic, infrastructure, and FiveM scripts running on 30,000+ servers. <br/>
+  Based in Birmingham, UK · <a href="https://scorpionong.net">scorpionong.net</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-0b0f14?style=for-the-badge&logo=lua&logoColor=6aa3ff" />
+  <img src="https://img.shields.io/badge/TypeScript-0b0f14?style=for-the-badge&logo=typescript&logoColor=4ea4ff" />
+  <img src="https://img.shields.io/badge/Bun-0b0f14?style=for-the-badge&logo=bun&logoColor=fbd2c4" />
+  <img src="https://img.shields.io/badge/Astro-0b0f14?style=for-the-badge&logo=astro&logoColor=ff784e" />
+  <img src="https://img.shields.io/badge/Svelte-0b0f14?style=for-the-badge&logo=svelte&logoColor=ff3e00" />
+  <img src="https://img.shields.io/badge/MariaDB-0b0f14?style=for-the-badge&logo=mariadb&logoColor=8aff6a" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0b0f14?style=for-the-badge&logo=postgresql&logoColor=4ea4ff" />
+  <img src="https://img.shields.io/badge/Nginx-0b0f14?style=for-the-badge&logo=nginx&logoColor=32ff7a" />
+  <img src="https://img.shields.io/badge/Cloudflare-0b0f14?style=for-the-badge&logo=cloudflare&logoColor=ffdf76" />
+  <img src="https://img.shields.io/badge/Vercel-0b0f14?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Supabase-0b0f14?style=for-the-badge&logo=supabase&logoColor=32ff7a" />
+  <img src="https://img.shields.io/badge/Linux-0b0f14?style=for-the-badge&logo=linux&logoColor=f7e02e" />
+  <img src="https://img.shields.io/badge/Git-0b0f14?style=for-the-badge&logo=git&logoColor=ff6a6a" />
+</p>
+
+<div align="center">
+
+
+</div>
 
 ---
 
-## Tech Stack
+### // whoami
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,astro,cloudflare,git,bun,nginx,npm,supabase&theme=dark" alt="Skill Icons" />
+```
+Self-taught dev.
+Backend tinkerer.
+VPS whisperer.
+Mentor on weekends.
+Built for load.
+```
+
+I like writing systems that look quiet on the outside - and run an absurd amount of logic underneath. Performance, clarity, and *not melting under load* are the things I obsess over.
+
+---
+
+### // what I'm up to
+
+-  Writing optimised logic in **Lua**
+-  Running **VPS** environments, **MariaDB** databases, and custom scripts for **200+ player** servers
+-  Maintaining commercial resources at **JG Scripts** - used by **30,000+ customers**
+-  Community Manager at **YAMP** (yetanother.mp)
+-  Mentoring beginners through Lua, scripting, and debugging
+
+---
+
+### // selected work
+- **[s-givecar](https://github.com/Scorpion7162/s-givecar)** — clean vehicle-give utility
+- **[s-lockedmechanics](https://github.com/Scorpion7162/s-lockedmechanics)** — mechanic access control with QB-Core / QBX / ESX / standalone support and three interaction backends
+- **[s-zonelimits](https://github.com/Scorpion7162/s-zonelimits)** — restrict item usage to specific zones, server-authoritative with `ox_inventory` integration
+- **[s-orbitalstrike](https://github.com/Scorpion7162/s-orbitalstrike)** — because sometimes you just need to drop a kaboom on someone
+
+---
+
+### // stack
+
+**Daily drivers**
+<p>
+  <img src="https://skillicons.dev/icons?i=lua,mysql,nginx,bun,git,cloudflare,supabase,vercel&theme=dark" />
 </p>
 
-## Learning 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=discordjs,typescript,react,aws&theme=dark" alt="Skill Icons" />
+**Currently learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,react,svelte,aws&theme=dark" />
 </p>
 
-## Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,html,css&theme=dark" alt="Skill Icons" />
+**Languages & markup**
+<p>
+  <img src="https://skillicons.dev/icons?i=lua,html,css,typescript,javascript,xml,&theme=dark" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+### // stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=scorpion7162&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpion7162&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Most used languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=scorpion7162&show_icons=true&hide_border=true&bg_color=0b0f14&title_color=32ff7a&icon_color=32ff7a&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpion7162&layout=compact&hide_border=true&bg_color=0b0f14&title_color=32ff7a&text_color=c9d1d9" height="165" />
 </p>
 
 ---
+
+### // collab?
+
+If you're building something genuinely interesting, I'm down to talk!
+
+Especially into:
+
+- High-performance **CFX** systems
+- Backend tooling and dashboards
+- Clean APIs and database design
+- Anything where "it can't melt under load"
+
+<div align="center">
+
+
+
+</div>
+
+```
+> deploy
+> compiling...
+> running...
+> still up.
+```
+`
