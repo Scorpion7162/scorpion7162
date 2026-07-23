@@ -57,10 +57,10 @@ I like writing systems that look quiet on the outside - and run an absurd amount
 ---
 
 ### // selected work
-- **[s-givecar](https://github.com/Scorpion7162/s-givecar)** — clean vehicle-give utility
-- **[s-lockedmechanics](https://github.com/Scorpion7162/s-lockedmechanics)** — mechanic access control with QB-Core / QBX / ESX / standalone support and three interaction backends
-- **[s-zonelimits](https://github.com/Scorpion7162/s-zonelimits)** — restrict item usage to specific zones, server-authoritative with `ox_inventory` integration
-- **[s-orbitalstrike](https://github.com/Scorpion7162/s-orbitalstrike)** — because sometimes you just need to drop a kaboom on someone
+- **[s-givecar](https://github.com/Scorpion7162/s-givecar)** - clean vehicle-give utility
+- **[s-lockedmechanics](https://github.com/Scorpion7162/s-lockedmechanics)** - mechanic access control with QB-Core / QBX / ESX / standalone support and three interaction backends
+- **[s-zonelimits](https://github.com/Scorpion7162/s-zonelimits)** - restrict item usage to specific zones, server-authoritative with `ox_inventory` integration
+- **[s-orbitalstrike](https://github.com/Scorpion7162/s-orbitalstrike)** - because sometimes you just need to drop a kaboom on someone
 
 ---
 
@@ -86,8 +86,7 @@ I like writing systems that look quiet on the outside - and run an absurd amount
 ### // stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scorpion7162&show_icons=true&hide_border=true&bg_color=0b0f14&title_color=32ff7a&icon_color=32ff7a&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpion7162&layout=compact&hide_border=true&bg_color=0b0f14&title_color=32ff7a&text_color=c9d1d9" height="165" />
+  <img src="https://ghstats.dev/api/card?username=scorpion7162&theme=tokyonight&hide_title=true&hide=streak%2Cweek%2Cavg%2Cfollowers" height="165" />
 </p>
 
 ---
