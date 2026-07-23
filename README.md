@@ -86,7 +86,7 @@ I like writing systems that look quiet on the outside - and run an absurd amount
 ### // stats
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=scorpion7162&theme=tokyonight&hide_title=true&hide=streak%2Cweek%2Cavg%2Cfollowers" height="165" />
+  <img src="https://ghstats.dev/api/card?username=scorpion7162&theme=tokyonight&hide_title=true&hide=streak%2Cweek%2Cavg%2Cfollowers"/>
 </p>
 
 ---
